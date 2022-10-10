@@ -9,3 +9,6 @@ paddle项目地址：https://aistudio.baidu.com/aistudio/projectdetail/3477303
            
            
 第一次使用github
+
+2022.10.10
+建议使用maixhub非常好用 效果也不错
